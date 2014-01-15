@@ -1,0 +1,30 @@
+{
+    "name":        "javihernandezgil/doctrine-utils-bundle",
+    "type":        "symfony-bundle",
+    "description": "This bundle adds irmprovements to doctrine",
+    "keywords":    ["symfony", "bundle", "doctrine"],
+    "homepage":    "http://deverbena.com",
+    "license":     "MIT",
+
+    "authors": [
+        {
+            "name": "Javier Hernández Gil",
+            "homepage": "http://github.com/barelon"
+        }
+    ],
+
+    "require": {
+        "php":                      ">=5.3.2",
+        "symfony/framework-bundle": ">=2.0.0"
+    },
+
+    "minimum-stability": "dev",
+
+    "autoload": {
+        "psr-0": {
+            "javihernandezgil\\DoctrineUtilsBundle": ""
+        }
+    },
+
+    "target-dir": "Jhg/DoctrineUtilsBundle"
+}
