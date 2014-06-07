@@ -1,5 +1,5 @@
 {
-    "name":        "javihernandezgil/doctrine-utils-bundle",
+    "name":        "javihgil/doctrine-utils-bundle",
     "type":        "symfony-bundle",
     "description": "This bundle adds irmprovements to doctrine",
     "keywords":    ["symfony", "bundle", "doctrine"],
@@ -8,8 +8,8 @@
 
     "authors": [
         {
-            "name": "Javier Hernández Gil",
-            "homepage": "http://github.com/barelon"
+            "name": "Javier H. Gil",
+            "homepage": "http://github.com/javihgil"
         }
     ],
 
